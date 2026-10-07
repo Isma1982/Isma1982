@@ -1,6 +1,6 @@
 Ismail Muhammad – IT Security Professional  
 Location: Tripoli, Libya | Originally from Maiduguri, Borno State, Nigeria  
-Email: ismailzola33@gmail.com | Phone: +218 91 102 5231  
+Email: ismailzola33@gmail.com |  
 
 Professional Summary  
 Certified IT Security professional with hands-on training from Google Career Certificates. Skilled in networking fundamentals, Linux command line, basic Python scripting, and cybersecurity best practices. Seeking remote opportunities to support secure digital systems while preparing for relocation to Europe.
